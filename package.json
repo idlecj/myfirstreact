@@ -1,6 +1,6 @@
 {
-  "name": "myfirstreact",
   "homepage": "https://idlecj.github.io/myfirstreact/",
+  "name": "myfirstreact",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
